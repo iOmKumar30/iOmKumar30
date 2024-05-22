@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iOmKumar03
+- 👋 Hi, I’m Om
 - 👀 I’m interested in web development, machine learning, data structures and algorithms, and competitive programming.
 - 🌱 I’m currently learning HTML/CSS for web development, competitive programming, data structures and algorithms, and Java.
 - 💞️ I’m looking to collaborate on web development/machine learning projects.
