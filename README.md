@@ -1,4 +1,4 @@
-Meoww Meoww, I'm a Full-Stack Developer from India 👋
+Meoww Meoww, I'm a CS Grad from India 👋
 
 I build products across web, backend, databases, AI & Agentic AI. Most of my work sits at the intersection of clean product engineering, scalable system design, and solving real operational problems in education, finance, collaboration, and intelligent systems.
 
